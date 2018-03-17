@@ -1,10 +1,14 @@
 @font-face {
-  font-family: "Junction";
-  src: url("../fonts/Junction-light.otf");
+  font-family: "Futura_Medium";
+  src: url("../fonts/FuturaLTPro-Medium.ttf");
 }
 @font-face {
   font-family: "NotoSans";
   src: url("../fonts/NotoSans-Regular.ttf");
+}
+@font-face {
+  font-family: "Futura_Thin";
+  src: url("../fonts/Futura Thin.ttf");
 }
 
 * {
@@ -15,12 +19,12 @@
 }
 
 body {
-  background-color: #2a303f;
+  background-color: #212935;
 }
 
 h1 {
   padding-top: 20px;
-  font-family: "Junction";
+  font-family: "Futura_Medium";
   font-size: 60px
 
 }
@@ -28,8 +32,8 @@ h1 {
 p {
   margin-top: 10px;
   margin-bottom: 0px;
-  font-family: "NotoSans";
-  font-size: 16px;
+  font-family: "Futura_Medium";
+  font-size: 18px;
 }
 
 #container {
