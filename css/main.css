@@ -36,6 +36,10 @@ p {
   font-size: 18px;
 }
 
+#spacer {
+	height: 30px;
+}
+
 #container {
   color: #fefff2;
   display: block;
@@ -44,44 +48,116 @@ p {
   text-align: center;
 }
 
-#video-container {
-  width: 60%;
+#video1-container {
+  max-width: 60% !important;
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#video2-container {
+  max-width: 60% !important;
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#song1-container {
+  max-width: 60% !important;
+  position: relative;
+  padding-bottom: 10%;
+  height: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#song2-container {
+  max-width: 60% !important;
+  position: relative;
+  padding-bottom: 10%;
+  height: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#song3-container {
+  max-width: 60% !important;
+  position: relative;
+  padding-bottom: 10%;
+  height: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#song4-container {
+  max-width: 60% !important;
+  position: relative;
+  padding-bottom: 10%;
+  height: 0;
   margin-left: auto;
   margin-right: auto;
 }
 
 #video1 {
   width: 100%;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 #video2 {
   width: 100%;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 #song1 {
   width: 100%;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 #song2 {
   width: 100%;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 #song3 {
   width: 100%;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 #song4 {
   width: 100%;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
