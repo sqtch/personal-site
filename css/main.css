@@ -51,7 +51,7 @@ p {
 #video1-container {
   max-width: 60% !important;
   position: relative;
-  padding-bottom: 56.25%;
+  padding-bottom: 33.75%;
   height: 0;
   margin-left: auto;
   margin-right: auto;
@@ -60,7 +60,7 @@ p {
 #video2-container {
   max-width: 60% !important;
   position: relative;
-  padding-bottom: 56.25%;
+  padding-bottom: 33.75%;
   height: 0;
   margin-left: auto;
   margin-right: auto;
@@ -69,7 +69,7 @@ p {
 #song1-container {
   max-width: 60% !important;
   position: relative;
-  padding-bottom: 10%;
+  padding-bottom: 13.5%;
   height: 0;
   margin-left: auto;
   margin-right: auto;
@@ -78,7 +78,7 @@ p {
 #song2-container {
   max-width: 60% !important;
   position: relative;
-  padding-bottom: 10%;
+  padding-bottom: 13.5%;
   height: 0;
   margin-left: auto;
   margin-right: auto;
@@ -87,7 +87,7 @@ p {
 #song3-container {
   max-width: 60% !important;
   position: relative;
-  padding-bottom: 10%;
+  padding-bottom: 13.5%;
   height: 0;
   margin-left: auto;
   margin-right: auto;
@@ -96,7 +96,7 @@ p {
 #song4-container {
   max-width: 60% !important;
   position: relative;
-  padding-bottom: 10%;
+  padding-bottom: 13.5%;
   height: 0;
   margin-left: auto;
   margin-right: auto;
