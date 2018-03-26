@@ -161,3 +161,11 @@ p {
   right: 0;
   bottom: 0;
 }
+
+#thank {
+  color: #fefff2;
+  display: block;
+  margin: 60px auto;
+  width: 40%;
+  text-align: center;
+}
